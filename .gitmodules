@@ -1,0 +1,3 @@
+[submodule "planit-vizsgaremek-fullstack"]
+	path = planit-vizsgaremek-fullstack
+	url = https://github.com/janoscsordas/planit-vizsgaremek-fullstack
