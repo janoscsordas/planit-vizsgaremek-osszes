@@ -1,6 +1,6 @@
 # Planitapp Összes
 
-Ez a repository tartalmazza az összes fájlt, beleértve a [planitapp-fullstack](https://github.com/janoscsordas/planit-vizsgaremek-fullstack) repository-t, illetve a weboldalhoz készített [dokumentációt](https://github.com/janoscsordas/planit-vizsgaremek-dokumentacio) bemutató repository-t is.
+Ez a repository tartalmazza az összes fájlt, beleértve a [planit-vizsgaremek-fullstack](https://github.com/janoscsordas/planit-vizsgaremek-fullstack) repository-t, illetve a weboldalhoz készített [dokumentációt](https://github.com/janoscsordas/planit-vizsgaremek-dokumentacio) bemutató repository-t is.
 
 A két repository-t [submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules)-ként fűztük hozzá ehhez a repository-hoz.
 
@@ -15,8 +15,8 @@ A két repository-t [submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodu
 ### Repository klónozása submodule-okkal együtt
 
 ```bash
-git clone --recurse-submodules https://github.com/janoscsordas/planit-vizsgaremek-fullstack
-cd planitapp-osszes
+git clone --recurse-submodules https://github.com/janoscsordas/planit-vizsgaremek-osszes
+cd planit-vizsgaremek-osszes
 ```
 
 ### Már clone-ozott a repository-t, de a submodule-ok még hiányoznak
@@ -38,7 +38,7 @@ A fejlesztés során az egyes komponensekben végzett módosításokat az eredet
 
 ```bash
 # A submodule-okban végzett módosítások után
-cd planitapp-osszes
+cd planit-vizsgaremek-osszes
 git add planit-vizsgaremek-fullstack
 git add planit-vizsgaremek-dokumentacio
 git commit -m "Submodule referenciák frissítése"
