@@ -29,7 +29,7 @@ git submodule update
 ### Submodule-ok frissítése a legfrissebb verzióra
 
 ```bash
-git submodule update --remote
+git submodule update --recursive --remote
 ```
 
 ## Fejlesztési irányelvek
@@ -41,7 +41,7 @@ A fejlesztés során az egyes komponensekben végzett módosításokat az eredet
 cd planit-vizsgaremek-osszes
 git add planit-vizsgaremek-fullstack
 git add planit-vizsgaremek-dokumentacio
-git commit -m "Submodule referenciák frissítése"
+git commit -m "Update submodule version"
 git push
 ```
 
