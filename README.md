@@ -19,7 +19,7 @@ git clone --recurse-submodules https://github.com/janoscsordas/planit-vizsgareme
 cd planit-vizsgaremek-osszes
 ```
 
-### Már clone-ozott a repository-t, de a submodule-ok még hiányoznak
+### Már clone-ozta a repository-t, de a submodule-ok még hiányoznak
 
 ```bash
 git submodule init
