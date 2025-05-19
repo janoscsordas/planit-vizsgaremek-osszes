@@ -1,6 +1,6 @@
 # Planitapp Összes
 
-**Megjegyzés:** A projekt csak a [planitapp](https://planitapp.hu) weboldalon használható, a kényes környezeti változók miatt.
+**Megjegyzés:** A projekt csak a [planitapp](https://planitapp.hu) weboldalon használható illetve próbálható ki, a kényes környezeti változók miatt.
 
 Ez a repository tartalmazza az összes fájlt, beleértve a [planit-vizsgaremek-fullstack](https://github.com/janoscsordas/planit-vizsgaremek-fullstack) repository-t, illetve a weboldalhoz készített [dokumentációt](https://github.com/janoscsordas/planit-vizsgaremek-dokumentacio) bemutató repository-t is.
 
