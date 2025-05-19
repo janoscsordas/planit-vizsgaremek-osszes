@@ -1,5 +1,7 @@
 # Planitapp Összes
 
+**Megjegyzés:** A projekt csak a [planitapp](https://planitapp.hu) weboldalon használható, a kényes környezeti változók miatt.
+
 Ez a repository tartalmazza az összes fájlt, beleértve a [planit-vizsgaremek-fullstack](https://github.com/janoscsordas/planit-vizsgaremek-fullstack) repository-t, illetve a weboldalhoz készített [dokumentációt](https://github.com/janoscsordas/planit-vizsgaremek-dokumentacio) bemutató repository-t is.
 
 A két repository-t [submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules)-ként fűztük hozzá ehhez a repository-hoz.
